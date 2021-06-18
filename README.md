@@ -59,5 +59,4 @@ I would like to dive deeper into media queries and learn more about writing effi
 
 ## Author
 
-- Github - [Michael Lai](https://github.com/therealmichaellai)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@therealmichaellai](https://www.frontendmentor.io/profile/yourusername)

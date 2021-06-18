@@ -59,4 +59,4 @@ I would like to dive deeper into media queries and learn more about writing effi
 
 ## Author
 
-- Frontend Mentor - [@therealmichaellai](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@therealmichaellai](https://www.frontendmentor.io/profile/therealmichaellai)
